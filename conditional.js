@@ -97,6 +97,12 @@ if (fruits[1]='apple') {
     console.log('kichuna');
 }
 
+// elements and index is different element will start with 1
+//  but index will start with 0
+
+
+
+
  
 
 

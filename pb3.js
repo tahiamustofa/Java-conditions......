@@ -1,17 +1,15 @@
 // pb-1
-var x=13;
-var y=79;
-var z=45;
- if (x>y) {
+var x=10;
+var y=5;
+var z=20;
+ if (x>y && x>z) {
     console.log('x');
- } else if (y>x) {
+ } else if (y>z && y>x ) {
     console.log('y');
- } else if(z>x && z>y ) {
+ } else {
     console.log('z');
  } 
- else{
-    console.log(0);
- }
+ 
 
 //  pb2
 
